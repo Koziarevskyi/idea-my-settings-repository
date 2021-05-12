@@ -1,0 +1,42 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="428" />
+    <option name="newTranslationDialogWidth" value="735" />
+    <option name="newTranslationDialogX" value="824" />
+    <option name="newTranslationDialogY" value="462" />
+    <histories>
+      <item value="An instantaneous point on the time-line.&#10;This class models a single instantaneous point on the time-line. This might be used to record event time-stamps in the application.&#10;The range of an instant requires the storage of a number larger than a long. To achieve this, the class stores a long representing epoch-seconds and an int representing nanosecond-of-second, which will always be between 0 and 999,999,999. The epoch-seconds are measured from the standard Java epoch of 1970-01-01T00:00:00Z where instants after the epoch have positive values, and earlier instants have negative values. For both the epoch-second and nanosecond parts, a larger value is always later on the time-line than a smaller value." />
+      <item value="Fruit balance at the beginning of the work shift." />
+      <item value="remnants" />
+      <item value="remna" />
+      <item value="re" />
+      <item value="a query" />
+      <item value="But before that subtract 1 from each element on an odd position (having the odd index)." />
+      <item value="even" />
+      <item value="If last char is a number or punctuation" />
+      <item value="a remainder" />
+      <item value="raising to a power" />
+      <item value="Three" />
+      <item value="Completion" />
+      <item value="in case the index passed to any of the methods is invalid." />
+      <item value="Define the clone method so that the cloning will be deep." />
+      <item value="Implement the Storage of key-value type that is parameterized with two types of data. You should be able to put new key-value pair and to get value by key." />
+      <item value="Add at least 5 fields to each class (Car and Engine)" />
+      <item value="Remember to use the engine in your car." />
+      <item value="supply" />
+      <item value="The above data could be represented in a CSV-formatted file as follows:" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1619481291117" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="RUSSIAN" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="targetLanguageSelection" value="LAST" />
+  </component>
+</application>
