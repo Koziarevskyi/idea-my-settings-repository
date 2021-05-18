@@ -102,6 +102,10 @@
           <option name="url" value="git@github.com:Koziarevskyi/jv-dao-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Koziarevskyi/jv-join.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="W:\Java" />
