@@ -114,6 +114,10 @@
           <option name="url" value="git@github.com:Koziarevskyi/jv-web-servlet-lifecycle.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Koziarevskyi/jv-web-practice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="W:\Java" />
