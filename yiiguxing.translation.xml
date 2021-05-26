@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="An invocation of this method of the form str.matches(regex) yields exactly the same result as the expression" />
       <item value=" has incorrect indentation" />
       <item value="Manufacturer" />
       <item value="Establish connection to your Database." />
@@ -35,7 +36,7 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620912841714" />
+    <option name="lastTrimTime" value="1622011584083" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
