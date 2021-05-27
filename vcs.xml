@@ -126,6 +126,10 @@
           <option name="url" value="git@github.com:Koziarevskyi/stream-api-exercises-part1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Koziarevskyi/Experience-Java-8.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="W:\Java" />
