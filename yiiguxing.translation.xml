@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="428" />
-    <option name="newTranslationDialogWidth" value="733" />
+    <option name="newTranslationDialogHeight" value="414" />
+    <option name="newTranslationDialogWidth" value="450" />
     <option name="newTranslationDialogX" value="824" />
-    <option name="newTranslationDialogY" value="462" />
+    <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="approach" />
       <item value="odd index" />
       <item value="that have a birthday month equal to provided." />
       <item value="This class allow to calculate a sum of squares of integer number in a certain range." />
@@ -41,7 +42,7 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622011584083" />
+    <option name="lastTrimTime" value="1622646694791" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
