@@ -154,6 +154,10 @@
           <option name="url" value="git@github.com:Koziarevskyi/hibernate-create-movie-session-hw.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Koziarevskyi/hibernate-criteria-query.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="W:\Java" />
