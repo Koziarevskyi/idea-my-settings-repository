@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="radix" />
+      <item value="radi" />
       <item value="approach" />
       <item value="odd index" />
       <item value="that have a birthday month equal to provided." />
@@ -40,9 +42,15 @@
       <item value="supply" />
       <item value="The above data could be represented in a CSV-formatted file as follows:" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622646694791" />
+    <option name="lastTrimTime" value="1623219921016" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
