@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="hover" />
+      <item value="height" />
       <item value="radix" />
       <item value="radi" />
       <item value="approach" />
@@ -50,7 +52,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623219921016" />
+    <option name="lastTrimTime" value="1624308364133" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
