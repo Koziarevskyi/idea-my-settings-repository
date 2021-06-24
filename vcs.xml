@@ -190,6 +190,10 @@
           <option name="url" value="git@github.com:Koziarevskyi/jv-spring-rest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Koziarevskyi/jv-spring-rest-web-practice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="W:\Java" />
