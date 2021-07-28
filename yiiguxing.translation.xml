@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="JPA entity listener to capture auditing information on persiting and updating entities. " />
       <item value="permit" />
       <item value="Even" />
       <item value="hover" />
