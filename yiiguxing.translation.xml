@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="preceded" />
       <item value="explicit" />
       <item value="revoke" />
       <item value="JPA entity listener to capture auditing information on persiting and updating entities. " />
