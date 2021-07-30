@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="has following stubbing(s) with different arguments" />
       <item value=" it is more explicit " />
       <item value="However, there was exactly 1 interaction with this mock:" />
       <item value="preceded" />
@@ -54,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="1" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="RUSSIAN" value="2" />
       </map>
     </option>
   </component>
