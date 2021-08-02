@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="legit scenarios" />
       <item value="has following stubbing(s) with different arguments" />
       <item value=" it is more explicit " />
       <item value="However, there was exactly 1 interaction with this mock:" />
@@ -61,7 +62,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627397026918" />
+    <option name="lastTrimTime" value="1627905394935" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
