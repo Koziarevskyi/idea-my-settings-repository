@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="Please consider reporting this to the maintainers of" />
+      <item value="An illegal reflective access operation has occurred" />
       <item value=" when a thread is interrupted or when attempting to retrieve the result of a task that aborted by throwing an exception" />
       <item value="legit scenarios" />
       <item value="has following stubbing(s) with different arguments" />
