@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="Once stubbed, the method will always return stubbed value regardless of how many times it is called." />
       <item value="Please consider reporting this to the maintainers of" />
       <item value="An illegal reflective access operation has occurred" />
       <item value=" when a thread is interrupted or when attempting to retrieve the result of a task that aborted by throwing an exception" />
@@ -55,7 +56,6 @@
       <item value="Add at least 5 fields to each class (Car and Engine)" />
       <item value="Remember to use the engine in your car." />
       <item value="supply" />
-      <item value="The above data could be represented in a CSV-formatted file as follows:" />
     </histories>
     <option name="languageScores">
       <map>
