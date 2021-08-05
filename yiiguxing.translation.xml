@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="revoke" />
       <item value="Once stubbed, the method will always return stubbed value regardless of how many times it is called." />
       <item value="Please consider reporting this to the maintainers of" />
       <item value="An illegal reflective access operation has occurred" />
@@ -16,7 +17,6 @@
       <item value="However, there was exactly 1 interaction with this mock:" />
       <item value="preceded" />
       <item value="explicit" />
-      <item value="revoke" />
       <item value="JPA entity listener to capture auditing information on persiting and updating entities. " />
       <item value="permit" />
       <item value="Even" />
