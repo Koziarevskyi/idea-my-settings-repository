@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="principal" />
       <item value="revoke" />
       <item value="revokeAllByUserIdAndClientSecret" />
       <item value="Once stubbed, the method will always return stubbed value regardless of how many times it is called." />
@@ -55,7 +56,6 @@
       <item value="Define the clone method so that the cloning will be deep." />
       <item value="Implement the Storage of key-value type that is parameterized with two types of data. You should be able to put new key-value pair and to get value by key." />
       <item value="Add at least 5 fields to each class (Car and Engine)" />
-      <item value="Remember to use the engine in your car." />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627905394935" />
+    <option name="lastTrimTime" value="1628678151427" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
