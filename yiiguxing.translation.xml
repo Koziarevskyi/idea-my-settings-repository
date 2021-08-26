@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="601" />
-    <option name="newTranslationDialogWidth" value="846" />
+    <option name="newTranslationDialogWidth" value="844" />
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="sent" />
+      <item value="отправлен" />
       <item value="Unsatisfied " />
       <item value="favorites" />
       <item value="principal" />
@@ -54,13 +56,11 @@
       <item value="raising to a power" />
       <item value="Three" />
       <item value="Completion" />
-      <item value="in case the index passed to any of the methods is invalid." />
-      <item value="Define the clone method so that the cloning will be deep." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="2" />
-        <entry key="RUSSIAN" value="2" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="RUSSIAN" value="4" />
       </map>
     </option>
   </component>
