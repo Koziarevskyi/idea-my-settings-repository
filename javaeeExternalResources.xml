@@ -1,6 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.cache/JetBrains/IdeaIC2021.2/extResources/32db523b_dbchangelog-3.4.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.cache/JetBrains/IdeaIC2021.2/extResources/32e969bc_dbchangelog-3.5.xsd" />
     <ignored-resource url="http://www.thymeleaf.org" />
   </component>
 </application>
