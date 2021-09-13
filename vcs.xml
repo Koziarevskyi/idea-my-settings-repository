@@ -202,9 +202,13 @@
           <option name="url" value="git@github.com:Koziarevskyi/jv-spring-security-part-2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:volodymyr-koziarevskyi-axon/nightbus-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="W:\Java" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
