@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="601" />
-    <option name="newTranslationDialogWidth" value="842" />
+    <option name="newTranslationDialogWidth" value="840" />
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="truncated" />
+      <item value="originator – Originator of the message, this will get truncated to 11 chars" />
       <item value="get Total Delivery Failed Count()" />
       <item value="tuple" />
       <item value="tup" />
@@ -54,8 +56,6 @@
       <item value="An instantaneous point on the time-line.&#10;This class models a single instantaneous point on the time-line. This might be used to record event time-stamps in the application.&#10;The range of an instant requires the storage of a number larger than a long. To achieve this, the class stores a long representing epoch-seconds and an int representing nanosecond-of-second, which will always be between 0 and 999,999,999. The epoch-seconds are measured from the standard Java epoch of 1970-01-01T00:00:00Z where instants after the epoch have positive values, and earlier instants have negative values. For both the epoch-second and nanosecond parts, a larger value is always later on the time-line than a smaller value." />
       <item value="Fruit balance at the beginning of the work shift." />
       <item value="remnants" />
-      <item value="remna" />
-      <item value="re" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633015543364" />
+    <option name="lastTrimTime" value="1633512658661" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
