@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="Verification" />
       <item value="arbitrary-precision" />
       <item value="hyphen" />
       <item value="truncated" />
@@ -55,7 +56,6 @@
       <item value="may not fail-fast" />
       <item value="Their use is strongly discouraged as they allow the caller to insert entries whose keys or values are not Strings." />
       <item value="discouraged" />
-      <item value="An instantaneous point on the time-line.&#10;This class models a single instantaneous point on the time-line. This might be used to record event time-stamps in the application.&#10;The range of an instant requires the storage of a number larger than a long. To achieve this, the class stores a long representing epoch-seconds and an int representing nanosecond-of-second, which will always be between 0 and 999,999,999. The epoch-seconds are measured from the standard Java epoch of 1970-01-01T00:00:00Z where instants after the epoch have positive values, and earlier instants have negative values. For both the epoch-second and nanosecond parts, a larger value is always later on the time-line than a smaller value." />
     </histories>
     <option name="languageScores">
       <map>
