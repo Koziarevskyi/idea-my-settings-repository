@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="Accepted" />
       <item value="Verification" />
       <item value="arbitrary-precision" />
       <item value="hyphen" />
@@ -55,7 +56,6 @@
       <item value="Establish connection to your Database." />
       <item value="may not fail-fast" />
       <item value="Their use is strongly discouraged as they allow the caller to insert entries whose keys or values are not Strings." />
-      <item value="discouraged" />
     </histories>
     <option name="languageScores">
       <map>
