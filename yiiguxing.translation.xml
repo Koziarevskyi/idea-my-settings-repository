@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="cannot simultaneously fetch multiple bags" />
       <item value="Accepted" />
       <item value="Verification" />
       <item value="arbitrary-precision" />
@@ -55,17 +56,16 @@
       <item value="Manufacturer" />
       <item value="Establish connection to your Database." />
       <item value="may not fail-fast" />
-      <item value="Their use is strongly discouraged as they allow the caller to insert entries whose keys or values are not Strings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="RUSSIAN" value="4" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="RUSSIAN" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633512658661" />
+    <option name="lastTrimTime" value="1634111932018" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
