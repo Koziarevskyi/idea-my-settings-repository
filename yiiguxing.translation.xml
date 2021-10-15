@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value=" It is recommended that applications use the enum rather than the int value to ensure code clarity." />
       <item value="precedence" />
       <item value="cannot simultaneously fetch multiple bags" />
       <item value="Accepted" />
@@ -55,7 +56,6 @@
       <item value="An invocation of this method of the form str.matches(regex) yields exactly the same result as the expression" />
       <item value=" has incorrect indentation" />
       <item value="Manufacturer" />
-      <item value="Establish connection to your Database." />
     </histories>
     <option name="languageScores">
       <map>
