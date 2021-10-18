@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="Thrown when a property cannot be persisted because it is an association with a transient unsaved entity instance." />
       <item value="transient instance" />
       <item value=" You have not concluded your merge" />
       <item value=" It is recommended that applications use the enum rather than the int value to ensure code clarity." />
@@ -55,7 +56,6 @@
       <item value="This class allow to calculate a sum of squares of integer number in a certain range." />
       <item value="Lear functional programming by refactoring a piece of code using Stream API " />
       <item value="Indentation" />
-      <item value="An invocation of this method of the form str.matches(regex) yields exactly the same result as the expression" />
     </histories>
     <option name="languageScores">
       <map>
