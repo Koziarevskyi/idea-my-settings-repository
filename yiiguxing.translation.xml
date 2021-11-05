@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="INTENT" />
       <item value="Retains" />
       <item value="&#10;maximum number of integral digits accepted for this number" />
       <item value="supersede " />
@@ -55,7 +56,6 @@
       <item value="radi" />
       <item value="approach" />
       <item value="odd index" />
-      <item value="that have a birthday month equal to provided." />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635422261365" />
+    <option name="lastTrimTime" value="1636129798643" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
