@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value=" lenient" />
       <item value="INTENT" />
       <item value="Retains" />
       <item value="&#10;maximum number of integral digits accepted for this number" />
@@ -55,7 +56,6 @@
       <item value="radix" />
       <item value="radi" />
       <item value="approach" />
-      <item value="odd index" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637759443865" />
+    <option name="lastTrimTime" value="1638788919007" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
