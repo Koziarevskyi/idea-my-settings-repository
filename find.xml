@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…/nightbus-common/src/main/java/dev/nightbus/common/enums/ApplicationException.java [nightbus-common]'" />
-    <option name="defaultScopeName" value="File '…/nightbus-common/src/main/java/dev/nightbus/common/enums/ApplicationException.java [nightbus-common]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/nightbus-common/src/main/java/dev/nightbus/common/enums/ApplicationException.java [nightbus-common]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
