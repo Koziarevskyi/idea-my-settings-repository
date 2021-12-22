@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="You have 1 Checkstyle violation" />
       <item value="concurrent" />
       <item value=" that sheds a light on the" />
       <item value="Checking project for vulnerabilities" />
@@ -55,7 +56,6 @@
       <item value="preceded" />
       <item value="explicit" />
       <item value="JPA entity listener to capture auditing information on persiting and updating entities. " />
-      <item value="permit" />
     </histories>
     <option name="languageScores">
       <map>
